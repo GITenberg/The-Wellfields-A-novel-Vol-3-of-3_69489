@@ -1,0 +1,30 @@
+_repo: The-Wellfields-A-novel-Vol-3-of-3_69489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fothergill, Jessie
+    birthdate: 1851
+    deathdate: 1891
+    gutenberg_agent_id: '33771'
+    url: http://www.gutenberg.org/2009/agents/33771
+    wikipedia: https://en.wikipedia.org/wiki/Jessie_Fothergill
+description: ''
+gutenberg_issued: '2022-12-06'
+identifiers:
+  gutenberg: '69489'
+language: en
+pgterms:marc904: https://archive.org/details/wellfieldsnovel03fothe
+pgterms:marc905: 20200903100149fothergill
+pgterms:marc906: '1880'
+pgterms:marc907: uk
+production_note: Peter Becker, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'uk: Richard Bentley and son,1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Wellfields: A novel. Vol. 3 of 3'
+url: http://www.gutenberg.org/ebooks/69489
