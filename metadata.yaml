@@ -1,5 +1,8 @@
 _repo: The-Wellfields-A-novel-Vol-3-of-3_69489
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69489-h/images/cover.jpg
 creator:
   author:
     agent_name: Fothergill, Jessie
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33771
     wikipedia: https://en.wikipedia.org/wiki/Jessie_Fothergill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69489#The-Wellfields-A-novel-Vol-3-of-3
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69489'
